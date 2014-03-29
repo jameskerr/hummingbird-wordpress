@@ -1,0 +1,26 @@
+{
+  "name": "hummingbird-wordpress",
+  "version": "0.0.0",
+  "description": "Wordpress streaming module for hummingbird.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chapmanu/hummingbird-wordpress.git"
+  },
+  "keywords": [
+    "hummingbird",
+    "streaming",
+    "wordpress"
+  ],
+  "author": "Chapman University",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chapmanu/hummingbird-wordpress/issues"
+  },
+  "homepage": "https://github.com/chapmanu/hummingbird-wordpress",
+  "dependencies": {
+  }
+}
