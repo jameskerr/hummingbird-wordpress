@@ -1,6 +1,6 @@
 {
   "name": "hummingbird-wordpress",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Wordpress streaming module for hummingbird.",
   "main": "main.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/chapmanu/hummingbird-wordpress",
   "dependencies": {
-    "hummingbird-service": "0.0.2",
+    "hummingbird-service": "0.0.3",
     "sugar": "^1.4.1",
     "moment": "^2.5.1",
     "winston": "^0.7.3"
