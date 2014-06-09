@@ -1,6 +1,6 @@
 {
   "name": "hummingbird-wordpress",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Wordpress streaming module for hummingbird.",
   "main": "main.js",
   "scripts": {
